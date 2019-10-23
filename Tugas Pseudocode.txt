@@ -1,0 +1,54 @@
+//Tugas Pseudocode
+
+1. Perhitungan Newton Second Law
+
+// Rumus Hukum 2 Newton = ΣF = m x a
+Rumus Pseudocodenya : 
+
+SET 'F' with any value
+SET 'm' = 600
+SET 'a' = 2
+
+CALCULATE 'm' times 'a'
+set 'F' value with CALCULATION RESULT
+
+2. Tahun Kabisat
+
+SET 'YEAR' with any value
+IF ('YEAR'/4 == 0 AND 'YEAR' % !=100)
+ 	PRINT 'Tahun Kabisat
+ELSE IF ('YEAR'/4 == 0 AND 'YEAR'/100 == 0 AND 'YEAR'/400=0)
+	PRINT 'Tahun Kabisat'
+Else PRINT Bukan Tahun Kabisat'
+
+3.Laundry Day
+
+SET 'Baju' = 1
+    WHILE 'Baju' < 20
+    ADD 'Baju by 1
+    END WHILE
+SET 'Hitung Baju' to the result of calculation
+
+4. Periksa Kuku
+
+FUNCTION periksa_kuku
+SET 'Siswa' = 40
+SET 'kuku_siswa';
+
+WHILE 'Siswa' < 40
+ADD 'Siswa by 1
+END WHILE
+CASE kuku_siswa
+	kuku_siswa = panjang :Print "beri hukuman"
+	BREAK ;
+	
+	kuku_siswa = pendekpendek : Print "beri pujian"
+	BREAK ;
+END CASE
+
+Print FUNCTION periksa_kuku
+
+	
+	
+	
+
